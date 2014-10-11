@@ -1,0 +1,21 @@
+{
+  "name": "domAutocomplete",
+  "version": "1.0.0",
+  "homepage": "https://github.com/oziks/domAutocomplete",
+  "authors": [
+    "Morgan Brunot <brunot.morgan@gmail.com>"
+  ],
+  "description": "jQuery plugin that allows you to make autocomplete from DOM",
+  "main": "dist/domAutocomplete.min.jquery.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=2"
+  }
+}
