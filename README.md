@@ -18,3 +18,18 @@ $('input').domAutocomplete({
   insensitive: true
 });
 ```
+
+## Install Dev environment
+
+Install npm and bower dependencies:
+```sh
+$ npm install
+$ bower install
+```
+
+## Test
+
+Run Jasmine tests:
+```sh
+$ gulp jasmine
+```
