@@ -13,8 +13,8 @@
 2. Call the plugin:
 ```javascript
 $('input').domAutocomplete({
-  datas: selector,
-  limit: limit,
-  insensitive: insensitive
+  datas: '.keyword',
+  limit: 10,
+  insensitive: true
 });
 ```
