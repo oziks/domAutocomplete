@@ -2,6 +2,8 @@
 
 #### jQuery plugin that allows you to make autocomplete from DOM
 
+[![Build Status](https://travis-ci.org/oziks/domAutocomplete.svg)](https://travis-ci.org/oziks/domAutocomplete)
+
 ## Usage
 
 1. Include jQuery and plugin's code:
