@@ -27,7 +27,9 @@ gulp.task('jshint', function () {
 
 gulp.task('jasmine', function () {
   return gulp.src('spec/*.js')
-    .pipe(jasmine())
+    .pipe(jasmine({
+      verbose: true
+    }))
   ;
 });
 
